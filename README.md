@@ -5,7 +5,7 @@ Sample implementation of SOCI for MS SQL Server Connection using ODBC Driver
 - MS SQL Server 
 - C++ compiler
 - CMake 2.8+
-- (optional) DNS file for ODBC Driver 
+- ODBC Driver 
 - (optional) Boost C++ Libraries (DateTime, Fusion, Optional, Preprocessor, Tuple)
 
 # Getting Started 
